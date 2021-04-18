@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../E-commers-rtl\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Startup\tarrahi_site\prog_toutorial\top lern\front\en_resources\E-commers2\E-commers-rtl\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
